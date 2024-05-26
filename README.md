@@ -1,5 +1,3 @@
-# Oil & Gas Analysis
-
 # Oil and Gas Data Analysis
 
 ## Overview
