@@ -16,7 +16,7 @@ The analysis is divided into several key sections:
 1. **Data Cleaning**: Handling missing values, outliers, and data transformations.
 2. **Exploratory Data Analysis (EDA)**: Initial exploration of the dataset to identify trends and patterns.
 3. **Visualizations**: Creating visual representations of the data to better understand the relationships between different variables.
-4. **Modeling (if applicable)**: Applying machine learning models to predict future trends or classify data.
+4. **Modeling**: Applying machine learning models to predict future trends or classify data.
 
 ## Requirements
 - Python 3.x
